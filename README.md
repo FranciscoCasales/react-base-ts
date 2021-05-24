@@ -1,6 +1,6 @@
 # React base project
 
-Initial configuration to perform a project with webpack, ESLint, prettier and React
+Initial configuration to perform a project with webpack, ESLint, prettier, React and Typrscrip
 
 <div align="center">
   <img src="./src/assets/img/react.png" width="230" height="200" />
